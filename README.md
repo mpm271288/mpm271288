@@ -4,7 +4,8 @@
 
 Soy una **QA Specialist** con más de **12 años de experiencia** en aseguramiento de calidad de software, trabajando en proyectos de alto impacto para sectores como e-commerce, telecomunicaciones, educación y seguros. A lo largo de mi carrera, he estado enfocada principalmente en pruebas manuales, realizando pruebas exploratorias, funcionales, integración y regresión, asegurando entregas estables y confiables.
 
-🚀 **Mi Viaje de Aprendizaje como QA Automation**  
+🚀 **Mi Viaje de Aprendizaje como QA Automation**
+
 Con 6 meses de experiencia práctica y muchas ganas de seguir aprendiendo y aportar con mi conocimiento. Actualmente, estoy enfocada en fortalecer mis habilidades en: 
 * **Programación para Testers:** Fortaleciendo mis bases para la automatización.  
 * **JavaScript para automatización:** Escribiendo scripts con buenas prácticas.  
@@ -12,9 +13,8 @@ Con 6 meses de experiencia práctica y muchas ganas de seguir aprendiendo y apor
 * **Control de versiones:** Uso de Git y GitHub para gestión de código.  
 * **Integración continua:** Configuración básica de pipelines en Jenkins y GitHub Actions.
 
----
+🌱 **Actualmente estoy aprendiendo y buscando oportunidades para crecer**
 
-## 🌱 **Actualmente estoy aprendiendo y buscando oportunidades para crecer**
 - Desarrollo y mantenimiento de scripts automatizados con Cypress  
 - Diseño de pruebas usando patrones como Page Object Model  
 - Integración continua con pipelines de CI/CD  
