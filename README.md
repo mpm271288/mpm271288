@@ -12,7 +12,7 @@ Con 6 meses de experiencia práctica y muchas ganas de seguir aprendiendo y apor
 
 ---
 
-## 🌱 Actualmente estoy aprendiendo y buscando oportunidades para crecer
+## 🌱 **Actualmente estoy aprendiendo y buscando oportunidades para crecer**
 - Desarrollo y mantenimiento de scripts automatizados con Cypress  
 - Diseño de pruebas usando patrones como Page Object Model  
 - Integración continua con pipelines de CI/CD  
