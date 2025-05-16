@@ -1,25 +1,28 @@
 # ¡Hola! Soy Marianella Palomino 👋
 
-![Banner de calidad y automatización QA](https://placehold.co/800x200/3B82F6/FFFFFF?text=QA+Specialist+%7C+QA+Automation+in+Progress%7C+ISTQB+Certified)
+![Banner de calidad y automatización QA](https://placehold.co/800x200/10B981/FFFFFF?text=QA+Specialist+%7C+QA+Automation+in+Progress)
 
-Soy una **QA Specialist** con más de **12 años de experiencia** en aseguramiento de calidad de software, trabajando en proyectos de alto impacto para sectores como e-commerce, telecomunicaciones, educación y seguros. A lo largo de mi carrera, he estado enfocada principalmente en pruebas manuales, realizando pruebas exploratorias, funcionales, integración y regresión, asegurando entregas estables y confiables.
+![Banner de calidad y automatización QA](https://placehold.co/800x200/7C3AED/FFFFFF?text=QA+Specialist+%7C+QA+Automation+in+Progress)
 
-🚀 **Mi Viaje de Aprendizaje como QA Automation**
+Soy una **QA Specialist** con más de **12 años de experiencia** en aseguramiento de calidad de software, colaborando en proyectos de alto impacto en sectores como e-commerce, telecomunicaciones, educación y seguros. A lo largo de mi trayectoria, me he especializado en pruebas manuales (exploratorias, funcionales, de integración y regresión), asegurando entregas estables, eficientes y confiables.
 
-Con 6 meses de experiencia práctica y muchas ganas de seguir aprendiendo y aportar con mi conocimiento. Actualmente, estoy enfocada en fortalecer mis habilidades en: 
-* **Programación para Testers:** Fortaleciendo mis bases para la automatización.  
-* **JavaScript para automatización:** Escribiendo scripts con buenas prácticas.  
-* **Diseño de pruebas automatizadas:** Uso de patrones como Page Object Model.  
-* **Control de versiones:** Uso de Git y GitHub para gestión de código.  
-* **Integración continua:** Configuración básica de pipelines en Jenkins y GitHub Actions.
+🚀 **Mi Viaje de Aprendizaje como QA Automation:**
 
-🌱 **Actualmente estoy aprendiendo y buscando oportunidades para crecer**
+Con 6 meses de experiencia práctica, muchas ganas de seguir aprendiendo, aportar con mi conocimiento y buscar oportunidades para crecer en el mundo de la automatización de pruebas.
 
-- Desarrollo y mantenimiento de scripts automatizados con Cypress  
-- Diseño de pruebas usando patrones como Page Object Model  
-- Integración continua con pipelines de CI/CD  
-- Pruebas de API REST y automatización con Postman
-- Buenas prácticas para mantener código de pruebas robusto y escalable  
+🌱 **Actualmente, estoy enfocada en fortalecer mis habilidades en:**
+- Automatización de pruebas end-to-end con **JavaScript y Cypress**
+- Integración continua de pruebas con **Jenkins**
+- Escritura de escenarios en **Cucumber/Gherkin**
+- Uso de **Git y GitHub** para gestión de código y trabajo colaborativo
+
+📚 **Próximamente quiero aprender:**
+
+- **Automatización de pruebas API** con Postman y otros enfoques  
+- **Azure DevOps** y **Bitbucket** para ampliar conocimientos en herramientas de gestión y CI/CD
+- **Playwright** para pruebas end-to-end en múltiples navegadores
+- **JMeter** para automatizar pruebas de carga y rendimiento
+- Exploración de frameworks como **Karate DSL** para pruebas combinadas (UI + API)
 
 ---
 
@@ -33,7 +36,7 @@ Con 6 meses de experiencia práctica y muchas ganas de seguir aprendiendo y apor
 
 ---
 
-## 📚 **Certificaciones clave**
+## 📜 **Certificaciones clave**
 - ISTQB Agile Tester – 2023  
 - ISTQB Test Automation Engineer – 2022  
 - ISTQB Test Manager – 2022  
@@ -45,7 +48,7 @@ Con 6 meses de experiencia práctica y muchas ganas de seguir aprendiendo y apor
 ## 👩‍💻 **Experiencia profesional destacada**
 
 **Analista de Calidad de Software – Quality & Development Software (Cliente Innova Schools Latam)**  
-Reducción de defectos en un 15% por requisitos mal definidos. Identificación de rutas faltantes y escenarios alternos en user flow. 
+Identificación de rutas faltantes y escenarios alternos en flujos de usuario. Reducción de defectos en un 15% por requisitos mal definidos.
 
 **QA Automation – Tiendamia**  
 Automatización con Cypress + Git/GitHub + Jenkins. Reducción de tiempos de regresión en un 40% y mejoras en la estabilidad del sistema.
@@ -63,6 +66,7 @@ Y más roles en Experis (Cliente Mapfre), IBM (Cliente Claro) y Rimac Seguros, a
 ## 📂 **Proyectos QA (en construcción)**
 
 Estoy creando y documentando mis primeros proyectos en GitHub para demostrar mis habilidades en QA y automatización.
+¡Muy pronto compartiré mis repositorios con ejemplos de pruebas y documentación!
 
 ---
 
@@ -84,4 +88,4 @@ Busco oportunidades donde aplicar mi experiencia, seguir fortaleciendo mis conoc
 
 ---
 
-Estoy en constante aprendizaje y evolución para ofrecer siempre lo mejor en calidad de software. ¡Gracias por visitar mi perfil! 
+Gracias por visitar mi perfil. Estoy en constante evolución para seguir ofreciendo lo mejor en calidad de software.
