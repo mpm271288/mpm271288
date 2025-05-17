@@ -81,6 +81,13 @@ Estoy creando y documentando mis primeros proyectos en GitHub para demostrar mis
 
 ---
 
+## 🌐 **Idiomas**
+
+- Español (Nativo)  
+- Inglés (Técnico)
+
+---
+
 ## 🤝 **¿Colaboramos?**
 
 Busco oportunidades donde aplicar mi experiencia, seguir fortaleciendo mis conocimientos en automatización y contribuir en proyectos que promuevan la mejora continua y la calidad desde el inicio.  
