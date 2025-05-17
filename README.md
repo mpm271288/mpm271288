@@ -1,6 +1,6 @@
 # ¡Hola! Soy Marianella Palomino 👋
 
-![Banner de calidad y automatización QA](https://placehold.co/800x200/7C3AED/FFFFFF?text=QA+Specialist+%7C+QA+Automation+in+Progress)
+![Banner de calidad y automatización QA](https://placehold.co/800x200/7C3AED/FFFFFF?text=Senior+QA+Specialist+%7C+Automation+in+Progress)
 
 Soy una **QA Specialist** con más de **12 años de experiencia** en aseguramiento de calidad de software, colaborando en proyectos de alto impacto en sectores como e-commerce, telecomunicaciones, educación y seguros. A lo largo de mi trayectoria, me he especializado en pruebas manuales (exploratorias, funcionales, de integración y regresión), asegurando entregas estables, eficientes y confiables.
 
