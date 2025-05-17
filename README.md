@@ -15,7 +15,6 @@ Con 6 meses de experiencia práctica, muchas ganas de seguir aprendiendo, aporta
 - Uso de **Git y GitHub** para gestión de código y trabajo colaborativo
 
 📚 **Próximamente quiero aprender:**
-
 - **Automatización de pruebas API** con Postman y otros enfoques  
 - **Azure DevOps** y **Bitbucket** para ampliar conocimientos en herramientas de gestión y CI/CD
 - **Playwright** para pruebas end-to-end en múltiples navegadores
@@ -31,6 +30,17 @@ Con 6 meses de experiencia práctica, muchas ganas de seguir aprendiendo, aporta
 - **Pruebas API:** Postman, SOAP UI
 - **Pruebas Cross-Browser:** LambdaTest, BrowserStack
 - **Metodologías:** Scrum, Kanban
+  
+---
+
+## 🧠 Habilidades destacadas
+- Atención al detalle y calidad en la ejecución.
+- Análisis y resolución de problemas.
+- Comunicación clara y efectiva.
+- Trabajo en equipo.
+- Organización y optimización del tiempo.
+- Adaptabilidad y manejo del cambio.
+- Iniciativa para el aprendizaje continuo.
 
 ---
 
@@ -44,27 +54,30 @@ Con 6 meses de experiencia práctica, muchas ganas de seguir aprendiendo, aporta
 ---
 
 ## 👩‍💻 **Experiencia profesional destacada**
-
 **Analista de Calidad de Software – Quality & Development Software (Cliente Innova Schools Latam)**  
-Identificación de rutas faltantes y escenarios alternos en flujos de usuario. Reducción de defectos en un 15% por requisitos mal definidos.
+- Identificación de rutas faltantes y escenarios alternos en flujos de usuario.
+- Reducción de defectos en un 15% por requisitos mal definidos.
 
 **QA Automation – Tiendamia**  
-Automatización con Cypress + Git/GitHub + Jenkins. Reducción de tiempos de regresión en un 40% y mejoras en la estabilidad del sistema.
+- Automatización de pruebas con Cypress + Git/GitHub + Jenkins.
+- Reducción de tiempos de regresión en un 40% y mejoras en la estabilidad de funcionalidades críticas.
 
 **Sr. QA Specialist – Tiendamia**  
-Implementación de procesos QA, integración de pruebas automáticas, soporte a marketing y onboarding de nuevos testers.
+- Implementación de procesos QA e integración de pruebas automáticas.
+- Soporte a áreas de negocio y capacitación de nuevos testers.
 
 **QA Senior – Inetum (Cliente Belcorp)**  
-Diseño de estrategias de pruebas, automatización inicial del equipo, y colaboración con UX para mejorar la usabilidad.
+- Diseño de estrategias de pruebas funcionales y automatización inicial del equipo.
+- Colaboración con UX para detectar mejoras de usabilidad desde etapas tempranas.
 
-Y más roles en Experis (Cliente Mapfre), IBM (Cliente Claro) y Rimac Seguros, aportando a la calidad del software con metodologías ágiles y enfoques colaborativos.
+Y más roles anteriores en Experis (Cliente Mapfre), IBM (Cliente Claro) y Rimac Seguros, aportando a la calidad del software con metodologías ágiles y enfoques colaborativos.
 
 ---
 
 ## 📂 **Proyectos QA (en construcción)**
 
-Estoy creando y documentando mis primeros proyectos en GitHub para demostrar mis habilidades en QA y automatización.
-¡Muy pronto compartiré mis repositorios con ejemplos de pruebas y documentación!
+Estoy creando y documentando mis primeros proyectos en GitHub para demostrar mis habilidades en QA y automatización.  
+*¡Muy pronto compartiré mis repositorios con ejemplos de pruebas y documentación!*
 
 ---
 
